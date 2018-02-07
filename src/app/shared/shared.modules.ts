@@ -11,14 +11,12 @@ import { NopagefoundComponent } from './nopagefound/nopagefound.component';
  	HeaderComponent,
     SiderbarComponent,
     BreadcrumbsComponent,
-
   ],
   exports: [
   	NopagefoundComponent,
     HeaderComponent,
     SiderbarComponent,
     BreadcrumbsComponent,
-
   ]
 })
 
